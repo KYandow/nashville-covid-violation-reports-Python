@@ -133,7 +133,7 @@ dmypy.json
 .pyre/
 
 #credentials
-notebooks/credentials.py
+notebooks-ky/credentials.py
 
 #big file
 data/hubNashville__311__Service_Requests.csv
