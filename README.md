@@ -12,6 +12,12 @@ In this project, a team of three analysts examined several available data source
 
   - `businesses.csv` is a geocoded dataset pulled using the Google API. This dataset includes addresses from hubNashville of reported violations, and related Google results for the closest five businesses to that address.
 
+  #### Dig In
+ 
+ - [This map animation allows one to examine particular areas of Nashville and/or times during the studied months and view where the reported violations and clusters appeared.](https://public.tableau.com/profile/kyle.y7260#!/vizhome/COVID-19inNashvilleReportedViolationsandClusters/CovidPresentation) The Cluster markers have a decay of 30 days and the violation markers have a decay of 5 days.
+ 
+ - [Review the full presentation here.](https://public.tableau.com/profile/kyle.y7260#!/vizhome/COVID-19inNashvilleReportedViolationsandClusters-Full/CovidPresentation?publish=yes)
+
  #### What We Found
 
  - There was a strong correspondence between the rate of reported violations and rate of COVID cases during summer (with peaks in July), but the relationship between them drops off toward October/November with rising cases and many fewer violations reported.
@@ -25,12 +31,5 @@ In this project, a team of three analysts examined several available data source
 ![Violations by Zip Dashboard](https://user-images.githubusercontent.com/31106403/104510391-ba1d0080-55b0-11eb-84e2-36996e5e75eb.png)
 
  - Clusters of cases were most frequently identified in locations where large groups of people reside together including long term care, correctional, and congregate living.
- 
- #### Dig In
- 
- - [This map animation allows one to examine particular areas of Nashville and/or times during the studied months and view where the reported violations and clusters appeared.](https://public.tableau.com/profile/kyle.y7260#!/vizhome/COVID-19inNashvilleReportedViolationsandClusters/CovidPresentation) The Cluster markers have a decay of 30 days and the violation markers have a decay of 5 days.
- 
- - [Review the full presentation here.](https://public.tableau.com/profile/kyle.y7260#!/vizhome/COVID-19inNashvilleReportedViolationsandClusters-Full/CovidPresentation?publish=yes)
-
 
 
