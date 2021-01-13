@@ -14,7 +14,7 @@ In this project, a team of three analysts examined several available data source
 
   #### Dig In
  
- - [This map animation allows one to examine particular areas of Nashville and/or times during the studied months and view where the reported violations and clusters appeared.](https://public.tableau.com/profile/kyle.y7260#!/vizhome/COVID-19inNashvilleReportedViolationsandClusters/CovidPresentation) The Cluster markers have a decay of 30 days and the violation markers have a decay of 5 days.
+ - [This map animation allows one to examine particular areas of Nashville and/or times during the studied months and view where the reported violations and clusters appeared.](https://public.tableau.com/profile/kyle.y7260#!/vizhome/COVID-19inNashvilleReportedViolationsandClusters/CovidPresentation) The cluster markers have a decay of 30 days and the violation markers have a decay of 5 days.
  
  - [Review the full presentation here.](https://public.tableau.com/profile/kyle.y7260#!/vizhome/COVID-19inNashvilleReportedViolationsandClusters-Full/CovidPresentation?publish=yes)
 
